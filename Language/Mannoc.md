@@ -76,7 +76,7 @@ Create a word related: Nokahi. Somthing that is very cold
 
 Resource: Brode, BahHuung Ger. Bronze, the low peoples scale. Metal is scarce in the mountain vilage. fortunatly what trade does comes to the village brings with it a stead supply of bronze. Thraid and Roch are villages traders they take their cart down the mountain twice a year to trade with the lowlands. bronze is used for nails, weapons, tools. Some beasts have bronze like scales that shed them in the fall, thus the name.
 
-Expletive: Thish, Crap. An onomatapia of excrament hitting the leaves of the forrest floor. A newer term and one that older people would find crass.
+Expletive: Thish, Crap. An onomatapia of excrament hitting the leaves of the forest floor. A newer term and one that older people would find crass.
 
 # Age 2
 
@@ -84,3 +84,5 @@ Traitor: Jeduldur. from the term, Ker Okasha er yet Huld. which is to say that s
 Thoes accused of and found guilty by the presideing body are often given the punishment of shuned survival.
 
 Shuned Survival: Gott nog. The starving year. starting on Hunning Taag a family undergoing the Gott nog is ignored by the village. They must do everything alone. No villager is allowed to acknowlage them or help them. They may not use any resource of the village including its reserves of food. Winter is particualarly difficult. Many starve to death. Thoes who make it through the winter to the next Hunning Taag are welcomed back into the Village.
+
+Vice: 
