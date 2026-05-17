@@ -18,7 +18,7 @@ Per [AI_Policy.md](AI_Policy.md): Claude is permitted for lore logistics, logic 
 - **[Prologues/](Prologues/)** — Player-written or DM-written prologues for each character.
 - **[Countries/](Countries/)** — One subdirectory per nation or region. The Cerisian Empire is the primary setting.
 - **[GM_notes/](GM_notes/)** — DM-facing private notes: encounter ideas, NPC lists, spell drafts, species guides (common_species_v2 parts 1–3), and bestiary reference images.
-- **[Language/](Language/)** — Language reference split by rarity (Common, Uncommon, Rare).
+- **[Language/](Language/)** — Language reference organized by rarity: `Common_Languages/` (Cerik, Eema, Raconta), `Uncommon_Languages/` (Ardulian, Celestial, Danumoc, Dwarven_Dialects), `Rare_Languages/` (Ardo, Dead_Eema, Grek, Mannoc, Southern_Hand_Language). Mirrors the structure of `GM_notes/Language/`.
 - **[Magic/](Magic/)** — Custom spell definitions.
 - **[Archive/](Archive/)** — Legacy .odt/.pdf versions of documents; treat as read-only history.
 
