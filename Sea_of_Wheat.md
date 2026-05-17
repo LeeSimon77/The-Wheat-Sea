@@ -118,7 +118,104 @@ There are 10 commonly known sophont species that make up the bulk of living soci
 
 The knowledge of the worlds inhabitants is far from complete, Medicine is intermediate at best, surgery is controversial, the assumed composition and functions of the different species is largely incorrect. This fact is largely innocuous, though I will point out truths of the species as they are relevant to the players and as you make decisions on what to play.
 
+Culture in the world is created by the shared values, goals, practices and ideals that largely come from a co-regionality or a shared physical closeness. That is to say there is no “Elvish society” equally as much as there is no “Human society”, that defines a unique set of behaviours shared across all, or the vast majority of, one particular species. To this point, there is no species based languages. There are languages that take after the particular species and their method of speaking vis a vis their physical interaction with a culture, for example Grek evolved to only include consonants that Dragonborn cNoble Titles of the Ceresian Empire
+
+Introduction
+
+The Cersian empire is one of the dominant socioeconomic powers in the region it occupies. The structure of high influence can be split into 3 pillars. The families which control the land and military known as the Herald Nobels. The Royal house of the Triamo leading the royal army and head of the seats of government. Finally the Ordained Nobles whos claim of divine right and ownership of large and profitable lands make them all individually very powerful.
+
+The Herald nobles are houses of repute which have been allowed the privilage to a name and recorded linage. They are given territories by the Triamo which they are allowed to take tax from and allowed to keep armies to defend. The Herald noble houses represent as a sum total, the largest military faction in the empire. However their large count, competing interests and strict code of noble conduct, would require an especially large assembly of them united in effort in order to wield their considerable power towards any singular goal. This makes the Herald nobles slow to act in group and keeps them in check with the smaller but more unified factions. 
+
+Twice per year, in early spring and late fall the herald nobles are called to be represented in the house of the dome in 2, week long sessions of government. This is a large congress of all the houses named for its gathering chamber in the parliament, a large domed chamber built for debate, votes and general large governmental issues. Failing illness or exemption by Triamo, usually on military reasons, all houses must attend these 2 sessions of government. Smaller sessions can be called, usually during the winter when most nobles maintain a presence in the capital. Though these ancillary sessions are not required.
+The Ordained nobles contain two parts. The old families of which there are 7, 8 if you include the royal family, are land bearing nobles that can trace their liniage back for over a thousand years to the founding of the Ceresian empire in old Ceris. These old houses helped found the Cerisian Empire and gave it its dominant religion. For this ancient favour they were given many privileges by there first Triamo and their family names given divine strength by the City of the Beazor. The other half of this pillar are the leaders of the Olorus faith themselves. The children of the old families and often from other noble houses are nominated for study in the Beazor, the centralized power of the Olorus faith and the seat of power of the head of the church. Once credable clerics these chosen leaders are made the heads of important cathedrals and offices to serve both the benefit of the church and their families.
+
+Taking Iconography from the Aasimar nature of the Triamo bloodline, the heads of the Ordained noble houses and major offices of the Olorus Pantheon in the empire meet regularly in a conference known as the Wings Counsel. This council operates similar to a senate and cabinet to the Triamo. Motions that pass a two thirds vote in the House of the Dome are voted on and discussed by the Wings Counsel. They also handle other matter and can create their own motions. The Wings Counsel notably have the exclusive power to decide what motions get put before the Triamo, who maintains the rights exclusive to make any decision of law.
+
+The Triamo, the royal house and government all work to make sure that the empire runs day to day. The Triamo is the sole ruler of the empire, whose divine right to the throne of the empire is materialized through a lineage of exclusively Aasimar. The Triamo maintains full authority of the nations policies with full Veto and Decree privalages able to overturn successful and unsucessful resolutions in both the house of the Dome and the Wings Council, as both are considered to be created in the interest of the Triamo no opposed to them. The ministries, guilds, departments and other aspects of routine government are populated with nobles who directly serve the Triamo. They and their families cannot wield the same individual power as either the Herald Nobles or the Ordained Nobles, however since they act directly on the Triamo’s orders they can wield that power in limited ways.
+
+Herald Nobles
+
+Vobarret – Veauburett
+
+A title given to sub-vassals of a land owning Barret. A Vobarret may name an heir and keep records of their families history as rightful claim to their claims and their nobility. As such they are allowed to take a name. Vobarrets inhabit a Barret’s land and act as tenants, maintaining their lands in the name of their lord. This includes training troops, collecting taxes, quelling dissatisfaction under the banner of their Barret. Vobarret take the prefix Ser like Knights, for this they are often confused and sometimes referred to as Barret Knights, Named Knights or Family Knights. A Barret may nominate an existing family for Vobarricy but must petition both the house of the dome and the wings council, who then put it before the Triamo to make the decision. A well connected Barret can attempt to put it in front of the Triamo directly but that is unlikely. A Vobarret is not allowed to hold troops of their own but is ceremonially given troops to lead from the Barret to act as their army/soldier while keeping them legally under the purview of the Barret.
+
+Barret and Barrbazein
+
+The title given to to the lowest level of land owning nobility. A Barret house is given a hereditary piece of land to govern in the Triamo’s name. On paper these lands are stationary and passed down, however quite a bit of swapping, trading, conquering and seizing happens between houses. A Barret will often have a smaller or less important portion of land. During peace time a Barret house is restricted to maintaining a force of 1600 soldiers, of which no more than 200 may be Knights. If the Triamo declares a war, then the Barret is expected to levy forces requested, usually around 1000 soldiers, men at arms or able bodies.
+
+Barrets are considered land given nobles and thus are given a seat in the house of the dome. They are allowed to declare an heir and keep records of their families history as rightful claim to their lands and their nobility.
+
+Barrbazein’s are a Vobazein that successfully split their controlling territory away from a Bazeim, making them a landed noble. They are mostly just a Barret with a few cavets, slightly more troops and often are more important in the government. A Barrbazein’s heir is considered a Barret when they take control of the family.
+
+Vobazein (Veaubaysan) and Veaubaysano.
+
+Vobazein and Veaubaysano are unlanded nobels that rank equal to or just above a Barret in a the noble hierarchy of the Cerisian empire. 
+
+Vobazein: They are sub-vassals of a land owning Bazein, performing similar roles as the Vobarret. Vobazein’s are allowed to keep a standing army of 1600 soldier of which no more than 400 may be knights. A Vobazein is allowed to name an heir and keep records of their family histories as rightful claim to their nobility. 
+
+During times of strife or mismanagement from their Bazein, a Vobazein may petition the house in the dome to relinquish their lords claim over their land, making them a Barrbazein and a landed lord.
+
+Vobazein get a seat in the house of the dome, however they must petition their Bazein to speak and though they count as a vote, the Bazein of their territory votes for them.
+
+Veaubaysano: They are sub-vassals of the Triamo directly and are slightly higher rank then Barrets. A Veaubaysano is a newer term for a non-land holding noble that has a high position in the government. The Royal Guild-master of Timber for example, would be held by a Veaubaysano. A Veaubaysano is allowed to name an heir and keep records of their family histories as rightful claim to their nobility. They are not allowed to hold an army of their own, though the Triamo can, through ceremony, allow a Veaubaysano to command an army in their name for a period of time.
+
+Bazein (Bah-zeeen)
+
+A Bazein house is given a large hereditary piece of land to govern in the Triamo’s name. With their large size comes some changes in ownership, territories on the edges of a Bazein’s territory are sometimes traded or ceded as large forms of payment during financial issues or wars. If a Bazein isn’t careful or fails in their duty, their Vobazein can request to be made Barrets, reducing their lands.
+
+During peace time a Bazein house is restricted to maintaining a force of 3200 soldiers, of which no more than 800 may be Knights. A Bazein house may also call on the forces of their Vobazein. If the Triamo declares a war, then the Bazein is expected to levy a size of forces requested, usually around 6,000 soldier, men at arms or able bodies though the Bazein can levy their Vobazein to help fill this number
+
+Bazein are considered land given nobles and thus are given a seat in the house of the dome, they  represent and vote for the Vobazein of their territory. They are allowed to declare an heir and keep records of their family histories as rightful claim to their lands and their nobility.
+
+Functional Nobles
+
+Knight
+The lowest rank recognized as Cerisian nobility. A knight cannot take a proper last name, they are usually recognized as Ser (Unisex) Name of Location. They serve the titled lord of the area. Knights cannot name an heir to take over their noble claim, but lords often knight the children of their knights after a length of training. This is usually done to keep loyal and effective knights close to their serving lord. A knight is raised to nobility for their skill at battle, A land owning Noble may name a knight without the permission of the Triamo but can only have a certain number of knights at any one point.
+
+
+Tauromo
+Similar but higher rank to a Knight. Tauromo is a title given to individuals of medium governmental position if they show exception achievement. The title of Tauromo is often given to second and third children of higher title nobels. A Barret may declare his eldest his heir and have his second work for the government and become a Tauromo. Tauromo cannot name an heir and usually come from existing noble houses. Mages are often made Tauromo if they enter higher service or knights if they prove themselves in battle. Tauromo that standout even from others of their noble group are sometimes elevated to Veaubaysano and are alowed to take their own name. 
+
+Pancerk
+The term for a noble who became a member of the clergy of the Olorus Pantheon. Often later children or children born out of wedlock, who have difficulty entering other aspects of noble culture. A trained Pancerk works at a temple and performs general religious duties including regular prayer, healing, ceremonies, festivals and anything else that would come of that work. Common Clerics or Vocerk are similar but perform even more mundain tasks like sweeping, cleaning and cooking at temples. A Pancerk is roughly the same noble level as a knight, though often due to their unwanted nature, are seen as lower than knights. A Pancerk can not take a partner nor have children and as a side effect cannot pass their small title down. Pancerks are clerics and can often cast clerical magic, however they wern’t “chosen” and instead entered service willingly and so are not considered Ordained Nobles.
+
+
+
+Ordained Nobles
+
+Cetello or Castellos (terms used interchangeably)
+
+A Cetello is greater noble title held by old families who’s land include strategic military locations. Key western ship building cities, large border fotresses, historic castles are all generally the hallmarks of a Cetello’s claim. A Cestello’s land will usually be of equal size to that of a Bazein and will come with Vobazein sub-tennent houses, some texts call these houses Vocastello’s but that name is unofficial. A Cestello is often old and storied in their region of opperation. Their claim to their land is backed or ordained by the Olorus Faith and thus they are able to weild a considerable amount of both milatary and polical power. A Cetello house is allowed to keep a standing force of 3200 troops of which no more than 800 can be knights. A Cetello can also command their Vobazein’s forces. Cetello houses do not sit in the house of the dome, instead they have a seat in the more powerful table of wings.
+
+Luchamo
+A Luchamo is a greater noble title held by only the oldest families. Territories of Luchamo’s are typically the best possible location, the best for crop growing, the best for monster hunting, the best for mineral gathering, timber hauling. A Luchamo’s territory is generally the largest among nobles, though not always the case. Like Cetello, they maintain a divine right to their territories given to them by the Olorus Faith. Notably a Luchamo territory does not require Vobazein or sub-tennent houses. The subdividing of smaller houses helps with administrative labor but also acts as a check for the noble houses, making it difficult for families to aquire a large army to oppose the Tiramo easily. Luchamo houses were all created at the founding of the empire back in old history, as such they were given certain privilages above the other noble houses. The ability to centralize their military power being one of thoes privileges. A Luchamo household has no upper limit on their standing armies size, though in practice keeping any military above 16,000 soldiers is economically and logistically difficult for any house. The only agreement on standing army strength is that Knights can only make up one third their total forces. The Luchamo houses lead the table of wings deciding what to put before the Tiramo and acting as advisors to them as they rule their empire. All the Luchamo houses have been ordained and their claims of land backed by the clergy of Olor. The Luchamo houses keep close blood ties to the Royal house, often marrying in sons and daughters to keep strong relations. 
+
+Checherto
+A Checherto is responsible for maintaining the larger temple complexes and the influence of the Olorous faith in the Cerisian empire. They are always the head cleric of temple or are of a similar status. 
+
+-Feli to Proumo
+
+-Chalo
+
+Triamo
+
+
+
+Common Species
+There are 10 commonly known sophont species that make up the bulk of living society. Other Sapient entities exist, though their existence ranges from fiction to grand myth to just being really rare. These edge case sophonts tend to be exceptions themselves to some greater rule that defines their species; thus making them doubly rare. A notable example of this rare edge case sophonts would be True Dragons.
+
+The knowledge of the worlds inhabitants is far from complete, Medicine is intermediate at best, surgery is controversial, the assumed composition and functions of the different species is largely incorrect. This fact is largely innocuous, though I will point out truths of the species as they are relevant to the players and as you make decisions on what to play.
+
 Culture in the world is created by the shared values, goals, practices and ideals that largely come from a co-regionality or a shared physical closeness. That is to say there is no “Elvish society” equally as much as there is no “Human society”, that defines a unique set of behaviours shared across all, or the vast majority of, one particular species. To this point, there is no species based languages. There are languages that take after the particular species and their method of speaking vis a vis their physical interaction with a culture, for example Grek evolved to only include consonants that Dragonborn could pronounce. This does not mean that Grek is the Dragonic language, but instead evolved in a culture that had a sizable Dragonborn population. 
+
+2 notable exceptions to this rule exist in common speach. There is an Unofficial Dwarven language that mixes spoken words with physical tapping called Knokking; either on a nearby surface or on the person you are talking to (typically on the hand but that’s more a cultural difference). An effort put forward to attempt to standardize overlapping Knokking words. This situation is largely similar to the creation of the modern Italian. This has varying success and many critics.
+
+The other is Silent Elvish, The Hunting Hands or The Voice with no Sound. It is a hand sign based language popularized by a nomadic group, south of the Cerik empire across a large sea. It is known more widely as the Southern Hand Languge. It has been adopted as the most common standard language for the hearing impaired in the Cerik Empire.
+
+Aasimar
+For players: Aasimar have no divine influence that would give them their somewhat angelic qualities. Actually the exact opposite happened, where naturally occurring Aasimar influenced the older societies interpretation of things they didn’t understand, aligning their ideals of “angelicness” somewhat with the qualities Aasimar displayed. 
+
+Aasimar are biologically natural, their alterations result from a genetic mutation that aligns their arcane identity very strongly with aould pronounce. This does not mean that Grek is the Dragonic language, but instead evolved in a culture that had a sizable Dragonborn population. 
 
 2 notable exceptions to this rule exist in common speach. There is an Unofficial Dwarven language that mixes spoken words with physical tapping called Knokking; either on a nearby surface or on the person you are talking to (typically on the hand but that’s more a cultural difference). An effort put forward to attempt to standardize overlapping Knokking words. This situation is largely similar to the creation of the modern Italian. This has varying success and many critics.
 
