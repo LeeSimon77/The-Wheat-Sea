@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Write|Edit|NotebookEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 -c \"\nimport json, sys, os\ndata = json.load(sys.stdin)\npath = data.get('tool_input', {}).get('file_path', '')\nif not path:\n    sys.exit(0)\nabs_path = os.path.realpath(path)\nroot = os.path.realpath('/home/user_1/Documents/DnD/The Wheat Sea')\nrel = os.path.relpath(abs_path, root)\nallowed = ('GM_notes' + os.sep, '.claude' + os.sep, 'GM_notes', '.claude')\nif rel == 'GM_notes' or rel == '.claude' or rel.startswith(tuple(allowed)):\n    sys.exit(0)\nprint(json.dumps({'decision': 'block', 'reason': 'Writes are restricted to .claude/ and GM_notes/ only. This file is read-only: ' + rel}))\nsys.exit(0)\n\"",
+            "statusMessage": "Checking write permission..."
+          }
+        ]
+      }
+    ]
+  }
+}
