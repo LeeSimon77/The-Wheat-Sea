@@ -1,0 +1,31 @@
+Armour,Description,AC Bonus,Hardness,Block Charges,Keywords,Effects,Resource,Weight,Value calc
+Under Armour,,,,,,,,,
+Padded doublet,"A short jacket or jack consisted of quilted fabric, leather or gambeson that provides decent protection to the chest and sometimes upper arms. Will come in many forms, and will often have attatchment points for additional armour.",1,0,0,Civilian,,2,0,1
+Full Padded Gambeson Armour,A full sleave jacket of thick quilted fabric and leather. Matching padded Chausse that cover the waist and legs.,1,0,1,Civilian,,3,0,2
+Chain Shirt,A short shirt of interlocked mail that protects the torso.,2,6,1,Weight,,4,1,7
+Chain Haubrek with Gambeson Armour,"A thighlength jacket of metal mail with long sleaves. Worn overtop of Gambeson, a doublet or other padded clothes. Usually worn as the main protective armour.",4,6,4,Weightx2,Stealth(disadvantage),4+,2,10
+Full Gambeson and Chain Armour,"A long sleave jacket, chausse and cap made of thick quilted fabric, reinforced in key spots with mail to protect vital areas from strikes that avoid the main armour",2,4,3,Weight,,3,1,7
+Main Armour,,,,,,,,,
+Boiled Leather Cuirass,Thick leather is used to protect the torso an waist. The leather is treated to make it a stiff but lightweight armour.,1,4,2,,,3,0,7
+Lacquered Wood Cuirass,Protective armour made from attatching wooden pieces to a leather or cloth backing to make a cheep and durable torso armour,1,8,1,Weight,,3,1,8
+Scale mail Cuirass,Metal scales are overlapped and interlinked to form a durrable and flexable torso and waist armour,4,8,4,Weightx2,Stealth(disadvantage),4,2,12
+Breastplate,A metal plate or set of plates that fully protect the front torso of the wearer.,2,10,2,Weight,,4,1,12
+Brigadine Cuirass,Large metal strips are riveted between sheets of leather to form a cheep and easily repairable set of torso armour,4,6,6,Weightx2,,4+,2,12
+Splint Cuirass,"A reinforced leather padded Cuirass with lames of metal interlocking around the torso, making a flexable but protective torso armour",4,8,4,Weightx2,Stealth(disadvantage),4+,2,12
+Plate Cuirass,"A full set of metal interlocking plates that provide maximum protection. This includes a Breastplate, backplate, Placard, Tassets and Faulds",5,10,6,Weightx2,Stealth(disadvantage),6,2,17
+Limb Armour,,,,,,,,,
+Boiled Leather Limbs,Hardened leather vambraces used to minimally protect the wearers arms.,0,2,1,,,2,0,3
+Lacquered Wood Limbs,,1,4,1,Weight,,3,1,4
+Scale mail Limbs,,2,4,3,Weight,Stealth(disadvantage),4,1,7
+Brigadine Limbs,,2,3,3,Weight,,4,1,6
+Splint Limbs,,3,4,4,Weight,Stealth(disadvantage),4,1,9
+Demi Plate Limbs,,2,5,2,Weight,Stealth(disadvantage),4,1,7
+Full Plate Limbs,Interlocking armour plates that fully cover the wearers arms,3,5,4,Weightx2,Stealth(disadvantage),6,2,8
+Helmet (optional),,,,,,,,,
+Half Helmet,A protective helmet that covers at least half of the wearers head.,1,2,0,,,3,0,3
+Full Helmet,A protective helmet that fully covers the wearers head but leaves the face open.,2,2,0,Weight,,3,1,2
+Visored Helmet,A full Helmet with a visor that the wearer can use an action to move to gain an AC bonus at the cost of perception disadvantage,2(3),2,0,Weight,perception(disadvantage),4,1,#VALUE!
+Extra (optional),,,,,,,,,
+Pauldrons,,1,2,0,,,4,0,3
+Shield,,0,6,2,Weight,,2,1,6
+Cloak,,0,0,0,Civilian,,3,0,0
