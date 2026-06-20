@@ -9,7 +9,6 @@ Has friends to trama bond with.
 
 Pulling names from this list https://en.wikipedia.org/wiki/List_of_Scottish_Gaelic_given_names#F
 
-Fillout form for Lee DND guy
 - Your village if it is in the north would be mountainous or at least rocky and hilly think himalayas to scandanavian. You would border a grassplane but think either rocky or valley like. Goats, sheep, wood cutting tec.
 Village
 
@@ -21,26 +20,27 @@ How did your village survive the harsh winter in the mountains - bring the sheep
 
 What did they trade with their neighbors - wools, woven fabrics, mutton, other livestock. Most of the food grown was eaten by the village but there may be some leftovers.
 
+
 Make your family
-Mom Dierdre, weaver who grew up in town - lost in invasion
-Dad Steafan, shepherd - lost in invasion
-Only child - this is somewhat rare in my village
+Mom Dierdre, weaver who grew up in town - lost in invasion.
+Dad Steafan, shepherd - lost in invasion.
+Only child - this is somewhat rare in my village.
 
-Uncle Peadar (dad's brother) who works with my father -lost in invasion
-Peadar's unnamed partner who died a while back
+Uncle Peadar (dad's brother) who works with my father -lost in invasion.
+Peadar's unnamed partner who died a while back.
 Cousins 
-  Lachlann (older) - lost in invasion
-  Siobhann (she/her) around my age, works as a farmhand
-  Lem (he/him) like 16, works as a farmhand
-  and Fillan (he/him) about 10, sells papers in the city
+  Lachlann (older) - lost in invasion.
+  Siobhann (she/her) around my age, works as a farmhand.
+  Lem (he/him) like 16, works as a farmhand.
+  and Fillan (he/him) about 10, sells papers in the city.
   
-Aunt Brìde (sort of like bride) Mom's sister - lost in invasion
-Auntie Ceana (kenna) (married to aunt Brìde) - lost in invasion
-Cousins Anna (she/her) - 12 - training as a weaver under some village elders
-Ailis (they/them) (Ay-lihs) - 12 - works as a farmhand
-Ceana's mother Lili is alive and taking care of the twins
+Aunt Brìde (sort of like bride) Mom's sister - lost in invasion.
+Auntie Ceana (kenna) (married to aunt Brìde) - lost in invasion.
+Cousins Anna (she/her) - 12 - training as a weaver under some village elders.
+Ailis (they/them) (Ay-lihs) - 12 - works as a farmhand.
+Ceana's mother Lili is alive and taking care of the twins.
 
-Parents had other siblings that died before they reached adulthood
+Parents had other siblings that died before they reached adulthood.
 Grandparents died when I was young
 
 Name someone from the village that died in the invasion 
@@ -53,28 +53,45 @@ What did you lose in the relocation that cant be replaced - the hand crossbow my
 What did you manage to bring with you? My mother's silver cloak pin, given to her by my father as a wedding gift. It's quite plain and sort of sticks out against my fancy outfits, but I always wear it
 
 
+
 College Town
 
 Whats the town called with the bard school? Baldwin
+
 WHats the town like? Still relatively northern town. Big trading post for people bringing in things up north and supplying the military. Large military presence and an academy
+
 WHats their main export? Hardy livestock that can survive most conditions (hence why my relatives have found a bunch of work on farms)
+
 Whats their main import? Everything needed to supply a military. Food, weapons, uniform materials
+
 Who in the town really helped your people relocate? The local farmers outside the town walls
+
 Why did they help you? Needed spare hands with the military grabbing all the able-bodied people
+
 Who didn't want the refugees to settle in their village: Military families and their associates
+
 Why did they think that? Because we come from a region up north and they think there are spies among us
+
 Who is important in the village: Elders: Lili (she/her), Cain (he/him), Dorin (they/them) and Ailie (she/her). The young adults who were teens when we left including me, my cousin Siobhann, Eimhir (she/they) weaver, and Teague (he/him) who we're a bit annoyed at as he's joined the military 
 
 Whats the town's relationship with the collage that sits there. People love the bards. Military and northern bleak towns are fuckin starved for entertainment, the shows bring in travelers, and the wandering bards bring back riches. The bards themselves are never taken super seriously except by the most shrewd politicians, but that's kind of the goal
 
 What parts of the town became a part of your identity: I learned to love the diversity of big cities with lots of visitors, and became really good at navigating military parties
 
+
+
 School of Bardin
 
 What instrument do you play - Violin/fiddle. Classical violin taught at school, fiddle brought from home
+
 Is there a song or style that you bring to your music from your village - fiddle music
+
 iS There a part of the the school that you dont enjoy - learning songs and stories of military glory, but I learned them because the rich parties eat that shit up
-What lesson from the collage do you carry with you now? - how to mingle with the rich and famous, flatter them and get what you want from them
+
+What lesson from the college do you carry with you now? - how to mingle with the rich and famous, flatter them and get what you want from them. Also that the truth is really important, and in fact too important to be offered in every situation. 
+
+
+
 
 Wandering
 
@@ -88,6 +105,8 @@ Are you looking for anything personal on the road: I'm looking for a place that 
 
 What would make you stop wandering? Finding a place I wanted to be permanently, and being able to bring the family who wants to join me there. A place busy enough that I can tell my stories, but peaceful enough that I don't need to watch out for my younger cousins.
 
-Name 1 person or place that you actively try to return to 
-Name 1 place that you refuse to go back to, why? 
-Name 1 olace that you can never go back to. I definitely seduced some noble in some town and stole like a history book from them or something, something predating the empire. It was already contraband so they can't really put out wanted posters for me, but if I go to that town and encounter people who work for them I Will Be Grabbed
+Name 1 person or place that you actively try to return to: there's a port city somewhere that is a big trading hub and has people from all over, and I really liked the energy, the stories from different places, and not being stared at as much. There's also a wizard's college there and I enjoyed teasing all the puffed up nerds
+
+Name 1 place that you refuse to go back to, why? I don't go back to the area along the border where my village was. Seeing the burnt out remains of my village and others makes me incredibly angry and sad.
+
+Name 1 place that you can never go back to. I definitely sedued some noble in some town and stole like a history book from them or something, something predating the empire. It was already contraband so they can't really put out wanted posters for me, but if I go to that town and encounter people who work for them I Will Be Grabbed
